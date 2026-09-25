@@ -220,13 +220,13 @@ OPENARCH/
   `monitoring`                        Monitoring and observability
                                       resources
 
-  Root configuration                  Module composition, variables,
+  `root configuration`                Module composition, variables,
                                       Terraform configuration and outputs
   -----------------------------------------------------------------------
 
 ## Design Principles
 
-OpenArch was designed around several core infrastructure principles.
+OpenArch was designed around several coore infrastructure principles.
 
 ### Modularity
 
