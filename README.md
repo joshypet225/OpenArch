@@ -202,7 +202,7 @@ OPENARCH/
 
   -----------------------------------------------------------------------
   Module                              Responsibility
-  ----------------------------------- -----------------------------------
+  -----------------------------------------------------------------------
   `network`                           VNet, subnets, NSGs, network
                                       associations, Application Gateway,
                                       Bastion and load-balancing network
